@@ -1,22 +1,27 @@
+from dotenv import load_dotenv
+load_dotenv()
+
 import json
 import time
 import os
 import requests
 from datetime import datetime, timedelta
 
+
 HISTORY_FILE = "history.json"
 CHATBOT_HISTORY_FILE = "chatbot_history.json"
-token = os.getenv("HF_TOKEN")
+
 
 
 def ai_chat(message):
     url = "https://router.huggingface.co/v1/chat/completions"
+    token = os.getenv("HF_TOKEN")
     headers = {
         "Authorization": f"Bearer {token}",
         "Content-Type": "application/json"
     }
     payload = {
-        "model": "openai/gpt-oss-120b:fastest",
+        "model": "meta-llama/Llama-3.1-8B-Instruct",
         "messages": [
             {"role": "user", "content": message}
         ],

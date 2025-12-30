@@ -1,5 +1,59 @@
 [
   {
+    "timestamp": "2025-12-30 20:24:50",
+    "user": "HABIB",
+    "user_message": "thank you",
+    "ai_response": "It was a brief but welcome interaction. If you need anything else or just want to chat, I'm here. Have a great day."
+  },
+  {
+    "timestamp": "2025-12-30 20:24:41",
+    "user": "HABIB",
+    "user_message": "what is the capital of usa",
+    "ai_response": "The capital of the United States of America is Washington, D.C. (short for District of Columbia)."
+  },
+  {
+    "timestamp": "2025-12-30 20:24:13",
+    "user": "HABIB",
+    "user_message": "what is the wether today",
+    "ai_response": "However, I'm a large language model, I don't have real-time access to current weather conditions. But I can suggest a few options to help you find out the weather today:\n\n1. **Check online weather websites**: You can visit websites like weather.com, accuweather.com, or wunderground.com to get the current weather conditions and forecast.\n2. **Use a virtual assistant**: If you have a smartphone or smart speaker with a virtual assistant like Siri, Google Assistant, or Alexa"
+  },
+  {
+    "timestamp": "2025-12-30 20:24:02",
+    "user": "HABIB",
+    "user_message": "hello",
+    "ai_response": "Hello. How can I assist you today?"
+  },
+  {
+    "timestamp": "2025-12-30 20:18:42",
+    "user": "habib",
+    "user_message": "hello",
+    "ai_response": "Invalid token."
+  },
+  {
+    "timestamp": "2025-12-30 20:16:39",
+    "user": "habib",
+    "user_message": "hello",
+    "ai_response": "Invalid token."
+  },
+  {
+    "timestamp": "2025-12-30 20:14:11",
+    "user": "habib",
+    "user_message": "hello",
+    "ai_response": "Invalid token."
+  },
+  {
+    "timestamp": "2025-12-30 20:13:33",
+    "user": "habib",
+    "user_message": "hello",
+    "ai_response": "Invalid token."
+  },
+  {
+    "timestamp": "2025-12-30 20:12:11",
+    "user": "habib",
+    "user_message": "hello",
+    "ai_response": "Invalid token."
+  },
+  {
     "timestamp": "2025-12-30 20:05:27",
     "user": "habib",
     "user_message": "hello",
