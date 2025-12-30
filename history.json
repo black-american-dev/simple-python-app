@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-12-29 21:50:53",
+    "name": "hamza",
+    "city": "paris",
+    "temperature": "2°C",
+    "weather": "Overcast",
+    "advice": "No advice available.",
+    "joke": "What's the object-oriented way to become wealthy? Inheritance"
+  },
+  {
+    "timestamp": "2025-12-29 21:46:10",
+    "name": "habib",
+    "city": "paris",
+    "temperature": "2°C",
+    "weather": "Overcast",
+    "advice": "No advice available.",
+    "joke": "When is a door not a door? When it's ajar."
+  },
+  {
+    "timestamp": "2025-11-19 17:39:21",
+    "name": "habib",
+    "city": "agadir",
+    "temperature": "21°C",
+    "weather": "Sunny",
+    "advice": "Put a piece of kitchen roll in with your bag of leaves to make them last longer.",
+    "joke": "What do you call a careful wolf? Aware wolf."
+  },
+  {
+    "timestamp": "2025-11-19 17:29:26",
+    "name": "aziza",
+    "city": "laayoune",
+    "temperature": "25°C",
+    "weather": "Partly cloudy",
+    "advice": "When faced with a choice, do both.",
+    "joke": "What did one wall say to the other wall? I'll meet you at the corner!"
+  },
+  {
+    "timestamp": "2025-11-19 17:03:11",
+    "name": "habib",
+    "city": "aziza",
+    "temperature": "12°C",
+    "weather": "Sunny",
+    "advice": "Sometimes, you just need to say sorry. Even if it's not your fault.",
+    "joke": "How many React developers does it take to change a lightbulb? None, they prefer dark mode."
+  },
+  {
+    "timestamp": "2025-11-19 17:02:22",
+    "name": "habib",
+    "city": "laayoune",
+    "temperature": "25°C",
+    "weather": "Partly cloudy",
+    "advice": "When faced with a choice, do both.",
+    "joke": "Knock knock. \n Who's there? \n Hatch. \n Hatch who? Bless you!"
+  }
+]
