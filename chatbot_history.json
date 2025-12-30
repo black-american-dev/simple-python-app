@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2025-12-30 03:08:09",
+    "user": "habib",
+    "user_message": "what is thank you in frensh",
+    "ai_response": "**Merci** – that’s the standard way to"
+  },
+  {
+    "timestamp": "2025-12-30 03:07:51",
+    "user": "habib",
+    "user_message": "thank you",
+    "ai_response": "You’re very welcome! If there’s anything else you’d like to know or discuss, just let me know."
+  },
+  {
+    "timestamp": "2025-12-30 03:07:43",
+    "user": "habib",
+    "user_message": "what is the date of today",
+    "ai_response": "Today’s date is **December 30, 2025**."
+  },
+  {
+    "timestamp": "2025-12-30 03:07:28",
+    "user": "habib",
+    "user_message": "hello",
+    "ai_response": "Hello! How can I assist you today?"
+  },
+  {
+    "timestamp": "2025-12-30 02:59:10",
+    "user": "habib",
+    "user_message": "thank you",
+    "ai_response": "You’re very welcome! If you have any more questions or need further assistance, just let me know."
+  },
+  {
+    "timestamp": "2025-12-30 02:59:05",
+    "user": "habib",
+    "user_message": "what is the date of today",
+    "ai_response": "Today’s date is **December 30, 2025**."
+  },
+  {
+    "timestamp": "2025-12-30 02:58:52",
+    "user": "habib",
+    "user_message": "hello",
+    "ai_response": "Hello! How can I assist you today?"
+  }
+]

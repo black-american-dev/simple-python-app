@@ -1,5 +1,50 @@
 [
   {
+    "timestamp": "2025-12-30 03:05:29",
+    "name": "habib",
+    "city": "agadir",
+    "temperature": "9°C",
+    "weather": "Clear",
+    "advice": "No advice available.",
+    "joke": "What's the best time to go to the dentist? Tooth hurty."
+  },
+  {
+    "timestamp": "2025-12-30 03:02:25",
+    "name": "habib",
+    "city": "new york",
+    "temperature": "4°C",
+    "weather": "Clear",
+    "advice": "No advice available.",
+    "joke": "I got hit in the head by a soda can, but it didn't hurt that much... It was a soft drink."
+  },
+  {
+    "timestamp": "2025-12-30 02:58:16",
+    "name": "habib",
+    "city": "paris",
+    "temperature": "3°C",
+    "weather": "Overcast",
+    "advice": "No advice available.",
+    "joke": "Why do Java programmers wear glasses? Because they don't C#."
+  },
+  {
+    "timestamp": "2025-12-30 02:50:43",
+    "name": "Habib",
+    "city": "laayoune",
+    "temperature": "14°C",
+    "weather": "Clear",
+    "advice": "No advice available.",
+    "joke": "Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan."
+  },
+  {
+    "timestamp": "2025-12-30 02:39:50",
+    "name": "habib",
+    "city": "agadir",
+    "temperature": "9°C",
+    "weather": "Clear",
+    "advice": "No advice available.",
+    "joke": "What's a computer's favorite snack? Microchips."
+  },
+  {
     "timestamp": "2025-12-29 21:50:53",
     "name": "hamza",
     "city": "paris",
