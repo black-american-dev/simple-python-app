@@ -6,10 +6,10 @@ from datetime import datetime, timedelta
 
 HISTORY_FILE = "history.json"
 CHATBOT_HISTORY_FILE = "chatbot_history.json"
+token = os.getenv("HF_TOKEN")
 
 
 def ai_chat(message):
-    token = "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"
     url = "https://router.huggingface.co/v1/chat/completions"
     headers = {
         "Authorization": f"Bearer {token}",
